@@ -12,7 +12,7 @@ The attendance Monitoring System keeps track of everyone's attendance inside the
 
 The Attendance Monitoring System is divided into two sections: admin and user/faculty. The administrator can log in by entering the username and password. The administrator now has access to the Attendance Monitoring System. The administrator can access the page with information about each user and facility. On this page, the admin can perform all the functions/features of the attendance monitoring system, which is listed [below](#-features). 
 
-In the Faculty section, they must register first before logging in by entering their username and password. They may then see the user's attendance under them and see who is listed as absent or present, as well as the date details. They can also perform other functions/features as listed [below](#-features). At the same time, the user can log in with their respective username and password after registering. All functions the user can perform are listed [below](#-features). 
+In the Faculty section, faculties must register first before logging in by entering their username and password. They may then see the user's attendance under them and see who is listed as absent or present, as well as the date details. They can also perform other functions/features as listed [below](#-features). At the same time, the user can log in with their respective username and password after registering. All functions the user can perform are listed [below](#-features). 
 
 
 
